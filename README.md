@@ -33,7 +33,9 @@ Analytical Insight	Turning data patterns into meaningful recommendations
 Category	Tool - Library	Purpose
 
 Environment	Jupyter Notebook - VS Code	Running and organizing the analysis
+
 Data Handling -	pandas, numpy	Cleaning, transforming, and summarizing data
+
 Visualization	- matplotlib, seaborn	Plotting charts & heatmaps
 
 ---
