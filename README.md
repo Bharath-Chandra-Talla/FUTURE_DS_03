@@ -1,11 +1,11 @@
-📘 ##Student Feedback Analysis: Data-Driven Event Insights
+## 📘Student Feedback Analysis: Data-Driven Event Insights
 
 This project focuses on analyzing student feedback collected from various college activities such as workshops, seminars, and technical/cultural events.
 The goal is to convert raw survey data (numeric ratings) into clear insights using Python to help improve future events.
 
 ---
 
-🔑 Key Tasks Performed
+## 🔑 Key Tasks Performed
 
 **Data Cleaning:** Removed unnecessary columns, handled missing values, clipped rating values to a valid 1–10 range.
 
@@ -17,7 +17,7 @@ The goal is to convert raw survey data (numeric ratings) into clear insights usi
 
 ---
 
-🛠️ Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
 Skill Area	Details
 
@@ -28,7 +28,7 @@ Analytical Insight	Turning data patterns into meaningful recommendations
 
 ---
 
-📚 Tools & Libraries Used
+## 📚 Tools & Libraries Used
 
 Category	Tool / Library	Purpose
 
@@ -38,7 +38,7 @@ Visualization	matplotlib, seaborn	Plotting charts & heatmaps
 
 ---
 
-📊 Output Summary
+## 📊 Output Summary
 
 Visualizations Generated
 
@@ -51,7 +51,7 @@ Correlation Heatmap	Relationship between rating categories
 
 ---
 
-🔍 Key Insights Identified
+## 🔍 Key Insights Identified
 
 Area	Observation	Interpretation
 
@@ -61,7 +61,7 @@ Overall Pattern	Mixed/average ratings	Indicates room for improvement and better 
 
 ---
 
-🎯 Conclusion
+## 🎯 Conclusion
 
 This project provides clear, beginner-friendly analysis of student feedback using Python.
 By identifying both strong areas and weak areas, it helps event organizers and faculty make data-backed decisions to improve future programs and student experience.
