@@ -32,6 +32,13 @@ Analytical Insight	Turning data patterns into meaningful recommendations
 
 Category	Tool / Library	Purpose
 
+Category Tool / Library Purpose
+Environment Anaconda / Jupyter Notebook Local, integrated data science environment.
+Data Handling pandas Data cleaning and manipulation.
+Visualization matplotlib / seaborn Statistical plotting and visualization.
+NLP TextBlob / VADER Sentiment analysis.
+Text wordcloud Text visualization.
+
 Environment	Jupyter Notebook / VS Code	Running and organizing the analysis
 Data Handling	pandas, numpy	Cleaning, transforming, and summarizing data
 Visualization	matplotlib, seaborn	Plotting charts & heatmaps
