@@ -10,6 +10,7 @@ This project analyzes student feedback survey responses to quantitatively assess
 | :--- | :--- |
 | **`Student_Feedback_Analysis.ipynb`** | The main Jupyter Notebook containing all the code, methodology, data cleaning steps, statistical analysis, and final conclusions. |
 | **`student_feedback.csv`** | The raw, anonymized dataset (1001 entries) containing student ratings (scores from 1 to 10) across eight course aspects. |
+| **`Outputs`** | It contains images of the dashboard|
 
 ## Methodology & Analysis Steps
 
