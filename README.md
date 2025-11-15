@@ -46,10 +46,13 @@ Visualizations Generated
 
 Visualization Type	Purpose
 
-Bar Chart	Average rating per question
-Histogram	Distribution of ratings
-Boxplot	Spread and outliers in student responses
-Correlation Heatmap	Relationship between rating categories
+Bar Chart	- Average rating per question
+
+Histogram -	Distribution of ratings
+
+Boxplot	- Spread and outliers in student responses
+
+Correlation Heatmap	- Relationship between rating categories
 
 ---
 
