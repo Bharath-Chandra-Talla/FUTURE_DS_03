@@ -7,13 +7,13 @@ The goal is to convert raw survey data (numeric ratings) into clear insights usi
 
 🔑 Key Tasks Performed
 
-Data Cleaning: Removed unnecessary columns, handled missing values, clipped rating values to a valid 1–10 range.
+**Data Cleaning:** Removed unnecessary columns, handled missing values, clipped rating values to a valid 1–10 range.
 
-Statistical Exploration: Calculated mean, standard deviation, and overall distribution for all rating questions.
+**Statistical Exploration:** Calculated mean, standard deviation, and overall distribution for all rating questions.
 
-Visual Analysis: Created easy-to-interpret charts like bar plots, histograms, boxplots, and a heatmap.
+**Visual Analysis:** Created easy-to-interpret charts like bar plots, histograms, boxplots, and a heatmap.
 
-Insight Extraction: Identified strengths and areas needing improvement based on rating patterns.
+**Insight Extraction:** Identified strengths and areas needing improvement based on rating patterns.
 
 ---
 
