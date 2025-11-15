@@ -34,6 +34,21 @@ The analysis successfully quantified student perception, revealing crucial areas
 | **Top Strength** | The highest-rated area was **Faculty Subject Knowledge** (Average Score: **~7.5**). |
 | **Critical Focus Areas** | The lowest-rated metrics identified as needing immediate improvement were **Degree of difficulty of assignments** and **Solves doubts willingly** (Average Scores: **~5.4-5.5**). |
 
+
+## 🛠️ Tools and Libraries Used
+
+The analysis that generated these visuals was conducted using the following primary tools and Python libraries:
+
+| Tool/Library | Purpose in Project |
+| :--- | :--- |
+| **Python** | The core programming language used for scripting and executing the analysis. |
+| **Pandas** | Essential for loading the CSV data, cleaning it, performing numerical calculations (like the `Overall Rating` average), and data manipulation. |
+| **NumPy** | Used for efficient mathematical operations, particularly array manipulation and calculation of means and statistics. |
+| **Matplotlib** | Used to create static, embeddable visualizations (charts, plots) for presentation of the key findings. |
+| **Seaborn** | Used to create aesthetically pleasing and informative statistical graphics, often used to visualize distributions and relationships in the data. |
+
+---
+
 ## How to Run the Analysis
 
 To reproduce the analysis and generate the final output file (`student_feedback_with_insights.csv`):
